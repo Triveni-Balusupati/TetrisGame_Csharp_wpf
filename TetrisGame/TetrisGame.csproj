@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Asserts\Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Asserts\Background.png" />
+    <None Remove="Asserts\Block-Empty.png" />
+    <None Remove="Asserts\Block-I.png" />
+    <None Remove="Asserts\Block-J.png" />
+    <None Remove="Asserts\Block-L.png" />
+    <None Remove="Asserts\Block-O.png" />
+    <None Remove="Asserts\Block-S.png" />
+    <None Remove="Asserts\Block-T.png" />
+    <None Remove="Asserts\Block-Z.png" />
+    <None Remove="Asserts\Icon.ico" />
+    <None Remove="Asserts\TileBlue.png" />
+    <None Remove="Asserts\TileCyan.png" />
+    <None Remove="Asserts\TileEmpty.png" />
+    <None Remove="Asserts\TileGreen.png" />
+    <None Remove="Asserts\TileOrange.png" />
+    <None Remove="Asserts\TilePurple.png" />
+    <None Remove="Asserts\TileRed.png" />
+    <None Remove="Asserts\TileYellow.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-15 171806.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-15 172251.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-18 190835.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-18 210612.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-18 210635.png" />
+    <None Remove="images\noteimages\Screenshot 2024-04-18 211529.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Asserts\Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Asserts\Background.png" />
+    <Resource Include="Asserts\Block-Empty.png" />
+    <Resource Include="Asserts\Block-I.png" />
+    <Resource Include="Asserts\Block-J.png" />
+    <Resource Include="Asserts\Block-L.png" />
+    <Resource Include="Asserts\Block-O.png" />
+    <Resource Include="Asserts\Block-S.png" />
+    <Resource Include="Asserts\Block-T.png" />
+    <Resource Include="Asserts\Block-Z.png" />
+    <Resource Include="Asserts\Icon.ico" />
+    <Resource Include="Asserts\TileBlue.png" />
+    <Resource Include="Asserts\TileCyan.png" />
+    <Resource Include="Asserts\TileEmpty.png" />
+    <Resource Include="Asserts\TileGreen.png" />
+    <Resource Include="Asserts\TileOrange.png" />
+    <Resource Include="Asserts\TilePurple.png" />
+    <Resource Include="Asserts\TileRed.png" />
+    <Resource Include="Asserts\TileYellow.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-15 171806.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-15 172251.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-18 190835.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-18 210612.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-18 210635.png" />
+    <Resource Include="images\noteimages\Screenshot 2024-04-18 211529.png" />
+  </ItemGroup>
+
+</Project>
