@@ -18,6 +18,7 @@
     <None Remove="Asserts\Block-T.png" />
     <None Remove="Asserts\Block-Z.png" />
     <None Remove="Asserts\Icon.ico" />
+    <None Remove="Asserts\Tetris_Game_Menu_Page.jpg" />
     <None Remove="Asserts\TileBlue.png" />
     <None Remove="Asserts\TileCyan.png" />
     <None Remove="Asserts\TileEmpty.png" />
@@ -49,6 +50,7 @@
     <Resource Include="Asserts\Block-T.png" />
     <Resource Include="Asserts\Block-Z.png" />
     <Resource Include="Asserts\Icon.ico" />
+    <Resource Include="Asserts\Tetris_Game_Menu_Page.jpg" />
     <Resource Include="Asserts\TileBlue.png" />
     <Resource Include="Asserts\TileCyan.png" />
     <Resource Include="Asserts\TileEmpty.png" />
